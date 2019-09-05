@@ -1,0 +1,5 @@
+title: Sprink
+description: Multi-Container build for Kubee Sprink irrigation firmware and Node-Red
+logo: docs/assets/favicons/kubee-sprink.png
+show_downloads: true
+theme: jekyll-theme-minimal
